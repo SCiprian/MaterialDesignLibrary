@@ -19,7 +19,7 @@ allprojects {
         mavenCentral()
     }
 
-    group = "com.github.navasmdc"
-    version = "1.5"
+    group = "com.github.SCiprian"
+    version = "1.6"
 }
 
