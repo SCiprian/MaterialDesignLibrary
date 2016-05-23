@@ -16,4 +16,4 @@ dependencies {
 }
 ```
 Most of the forks of the original Material Design Library Project have <b>minSdkVersion 16</b> this fork has <b>minSdkVersion 14</b>.<br><br>
-To know more about how to use the controls and elements, check out the <a href="https://github.com/vajro/MaterialDesignLibrary/blob/master/OriginalREADME.md">Original ReadMe file.</a>
+To know more about how to use the controls and elements, check out the <a href="https://github.com/SCiprian/MaterialDesignLibrary/blob/master/OriginalREADME.md">Original ReadMe file.</a>
